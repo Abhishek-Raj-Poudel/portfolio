@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.btn{
+ @apply p-6 py-3 bg-gradient-to-t from-[#222] to-[#444] hover:scale-95 text-white/90 flex justify-center items-center text-center uppercase text-sm duration-300
+}
+
