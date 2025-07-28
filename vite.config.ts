@@ -5,5 +5,5 @@ import { enhancedImages } from '@sveltejs/enhanced-img';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [svelte(), tailwindcss(),enhancedImages()],
-  base:'/portfolio'
+  // base:'/portfolio/'
 });
